@@ -1,0 +1,11 @@
+{
+  "name": "vue-detect-browser",
+  "version": "1.0.2",
+  "description": "Plugin for Vue3 that detects browser name, version, and user-agent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sumit Gajjar",
+  "license": "MIT"
+}
